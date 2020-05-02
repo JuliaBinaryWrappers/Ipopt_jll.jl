@@ -1,834 +1,834 @@
 [[Ipopt]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b695b58fde7542e15313da1504f6d3831b4b8ab5"
+git-tree-sha1 = "357949a23c4ea47e490307b027173df70272f569"
 libgfortran_version = "4.0.0"
 os = "freebsd"
 
     [[Ipopt.download]]
-    sha256 = "f031215083772cb7154fbbca307ba8dfa336ef0ac60bab61e4e42c0dc4f25117"
-    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.1+1/Ipopt.v3.13.1.x86_64-unknown-freebsd11.1-libgfortran4-cxx11.tar.gz"
+    sha256 = "c3ef1366203443ed9079d51b8932f4c5b38b0fac2c1f6cc1d1c2c3276670b2e9"
+    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.2+0/Ipopt.v3.13.2.x86_64-unknown-freebsd11.1-libgfortran4-cxx11.tar.gz"
 [[Ipopt]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "cf4db69596f155d140494122c7bb1a3798535aba"
+git-tree-sha1 = "ad4494560c07274fa18436a1c9cb57b8931d8911"
 libgfortran_version = "4.0.0"
 os = "windows"
 
     [[Ipopt.download]]
-    sha256 = "650dae48bc864847bc05d211837c02d2f8a184a9f406baa649bfc575ec85b245"
-    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.1+1/Ipopt.v3.13.1.i686-w64-mingw32-libgfortran4-cxx03.tar.gz"
+    sha256 = "1bbe178ea16c014e6294bb60c3a88027c4a4511bb30eb57ce54a3bd5ae0384f6"
+    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.2+0/Ipopt.v3.13.2.i686-w64-mingw32-libgfortran4-cxx03.tar.gz"
 [[Ipopt]]
 arch = "armv7l"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "bf20377a1d03e4fb9e98be9a0771e58dde7c21ab"
+git-tree-sha1 = "00cd78c3892d9fb85a95439fc6e373813a3455e2"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Ipopt.download]]
-    sha256 = "fae409e9e1e5138d26b29892dc0660234fd87a01a439bbbbed090c93534ef1e7"
-    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.1+1/Ipopt.v3.13.1.armv7l-linux-gnueabihf-libgfortran5-cxx11.tar.gz"
+    sha256 = "6add6a40fb8c6aeee961b7abadf2a3749a821ec68aa5c52cbc0fcede97865da8"
+    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.2+0/Ipopt.v3.13.2.armv7l-linux-gnueabihf-libgfortran5-cxx11.tar.gz"
 [[Ipopt]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "fff13fce0db4ed5379a0eeb73b6047a39b950e9d"
+git-tree-sha1 = "9bbae3ca1bc91c80de275f8ccbbb3baea4f1d148"
 libgfortran_version = "5.0.0"
 os = "windows"
 
     [[Ipopt.download]]
-    sha256 = "90986caefbbac184efa5d24fa5958d7462b3dff71618fb0319ad89fa3d096906"
-    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.1+1/Ipopt.v3.13.1.x86_64-w64-mingw32-libgfortran5-cxx11.tar.gz"
+    sha256 = "c173c91afe765288658ae9eb1e55e2ebd72604c63274a2aa9c3a552f617ddf2e"
+    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.2+0/Ipopt.v3.13.2.x86_64-w64-mingw32-libgfortran5-cxx11.tar.gz"
 [[Ipopt]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "fe1886360b1baaf8cf6936391b73b2b76863adae"
+git-tree-sha1 = "036fc98760a7abd8b61567bfa2d6d0d9275b1f99"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Ipopt.download]]
-    sha256 = "b802c62a9b52120c6d9f6a36f3cb6dec251ad735e704130e12f931db3b1d39df"
-    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.1+1/Ipopt.v3.13.1.aarch64-linux-gnu-libgfortran5-cxx11.tar.gz"
+    sha256 = "f6e18d9fb562aa44ed9ddbab1cb2122fcd2cb0dc034686fb5af8a58884c7554a"
+    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.2+0/Ipopt.v3.13.2.aarch64-linux-gnu-libgfortran5-cxx11.tar.gz"
 [[Ipopt]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "332fc924a9455e9b97a36d57db53e9a34f7ce343"
+git-tree-sha1 = "254411519982d64bcd2bdcc2fadf802a736507cb"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[Ipopt.download]]
-    sha256 = "e773ef6c6ea910d5f57e754e3c0bf8253403895f8f72dab27951af43726b29ab"
-    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.1+1/Ipopt.v3.13.1.i686-linux-musl-libgfortran4-cxx03.tar.gz"
+    sha256 = "ed0b8242669dec58f797b5647f21fb045000b85edf0ddd48ee08a0a88adf858a"
+    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.2+0/Ipopt.v3.13.2.i686-linux-musl-libgfortran4-cxx03.tar.gz"
 [[Ipopt]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "55d27e3832a74b5277dc6a2564b1b8790a7542fe"
+git-tree-sha1 = "8fcc1c5fff15d218bc3c39e043f8ea2c5087d91c"
 libgfortran_version = "5.0.0"
 os = "windows"
 
     [[Ipopt.download]]
-    sha256 = "08e545064824a05f9f19e4ec96ccd550adaf2a5d70608d4154454ae5bf79d12a"
-    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.1+1/Ipopt.v3.13.1.i686-w64-mingw32-libgfortran5-cxx03.tar.gz"
+    sha256 = "69fd33000a7085e3713cf7a50f2feca1ec7a0351567f89309cf05b06c9cea7b0"
+    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.2+0/Ipopt.v3.13.2.i686-w64-mingw32-libgfortran5-cxx03.tar.gz"
 [[Ipopt]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "716ef3c3f652bfa014989d6793e16742961a73e0"
+git-tree-sha1 = "f1cab9a3e0a9904fbd3b720f987ac2b5eeef592e"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[Ipopt.download]]
-    sha256 = "67e66e122f5868fe2596d5372bf09827a7677a4c1ca96a58420db2a283ce15c0"
-    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.1+1/Ipopt.v3.13.1.aarch64-linux-musl-libgfortran4-cxx03.tar.gz"
+    sha256 = "0bb93a5db8fd0b9aa0bdc41db68025bfdebe8ef468a4c6b88b83c6cb4ad3e5a1"
+    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.2+0/Ipopt.v3.13.2.aarch64-linux-musl-libgfortran4-cxx03.tar.gz"
 [[Ipopt]]
 arch = "armv7l"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7c7ef2d2780d659c1f1b3a1a93fc6e72d292e11d"
+git-tree-sha1 = "2f6bbaa852957c9bfcbd186e9d6808a62e34ac49"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[Ipopt.download]]
-    sha256 = "d1cb3eccb8f1bf41e14e96263d89b3492f20e65cafbc4255b7f8e7fe362508d9"
-    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.1+1/Ipopt.v3.13.1.armv7l-linux-gnueabihf-libgfortran3-cxx11.tar.gz"
+    sha256 = "ed2aa1c432f53adf0e5c64524e1b401fbb65a99e4a3d16d9561484f0e5d385bf"
+    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.2+0/Ipopt.v3.13.2.armv7l-linux-gnueabihf-libgfortran3-cxx11.tar.gz"
 [[Ipopt]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "1055eb2c915fe54e7b5ad85662b633950682ba21"
+git-tree-sha1 = "d5a89aa4c6e0ed184288b5a0b368218ee2a8a040"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[Ipopt.download]]
-    sha256 = "d0ea20a39478df712372fc0ed7c92202e4f524ae2d6b9e0a80c6dbf8d174f883"
-    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.1+1/Ipopt.v3.13.1.aarch64-linux-gnu-libgfortran4-cxx03.tar.gz"
+    sha256 = "3c3507a9b7f7c54881d720f5dd20f39c871407d0196055cdcffbc7f4059f0cd7"
+    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.2+0/Ipopt.v3.13.2.aarch64-linux-gnu-libgfortran4-cxx03.tar.gz"
 [[Ipopt]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "11a223e9e7ef0002cc6683c9e96ac86f80aaef2a"
+git-tree-sha1 = "5122f8888bc8dff1f1f40b67667eed2fdcf3061f"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[Ipopt.download]]
-    sha256 = "e30e0e3b5aec984f35a7cd6b4f41e8e432c29bb46a7bf4b8a5af85d55ff51582"
-    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.1+1/Ipopt.v3.13.1.x86_64-linux-gnu-libgfortran3-cxx11.tar.gz"
+    sha256 = "c9199f5d4bf79121208d3a48f216bbe643dccdac6ee31c7ceff9b727b58c71b9"
+    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.2+0/Ipopt.v3.13.2.x86_64-linux-gnu-libgfortran3-cxx11.tar.gz"
 [[Ipopt]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "2fae5cc1b912de08d3b44a79b22a68fdb2ac3219"
+git-tree-sha1 = "ceb7c2667850f5a70228d409b24d10ff3e4251c5"
 libgfortran_version = "5.0.0"
 os = "windows"
 
     [[Ipopt.download]]
-    sha256 = "bd7159c32b2a7c1f5c04faa909069f17068d6fbb26bc65ba1a5fd5f03e587455"
-    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.1+1/Ipopt.v3.13.1.x86_64-w64-mingw32-libgfortran5-cxx03.tar.gz"
+    sha256 = "fe339c6d2c1371267ba8f7519de6afa665ff77a1337bdd7566cfdc373464436d"
+    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.2+0/Ipopt.v3.13.2.x86_64-w64-mingw32-libgfortran5-cxx03.tar.gz"
 [[Ipopt]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "a788a046629fc20785b3652fffb9f24e55407953"
+git-tree-sha1 = "2c7df781a3af5db2dd8caf7d241330a85d3c0b32"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[Ipopt.download]]
-    sha256 = "693ba25a7a7b92fd63e179552f781c0d6e465b8a584a014e7be9fe7b0cf01dbc"
-    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.1+1/Ipopt.v3.13.1.aarch64-linux-gnu-libgfortran3-cxx03.tar.gz"
+    sha256 = "bed359bbf63128215d5adb1dc53044ed97566cad757f72b440275932e74fcd2c"
+    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.2+0/Ipopt.v3.13.2.aarch64-linux-gnu-libgfortran3-cxx03.tar.gz"
 [[Ipopt]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "8cd817851eb05b18fded2decd4f3e67abe1e983d"
+git-tree-sha1 = "01876df030130baeb98f8c37d956228e4b863571"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[Ipopt.download]]
-    sha256 = "8cea42cb5a0a9bf6d2557af6fe027e22853daa8ee576c358237b1c86957f31ae"
-    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.1+1/Ipopt.v3.13.1.x86_64-linux-gnu-libgfortran4-cxx11.tar.gz"
+    sha256 = "4583675e767cd3dee64ecc3cd54a65b943a1769972d805fd2eb1dc4b3cda6bf3"
+    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.2+0/Ipopt.v3.13.2.x86_64-linux-gnu-libgfortran4-cxx11.tar.gz"
 [[Ipopt]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "57658c25f4d128504d670ea3677a97a4562f0476"
+git-tree-sha1 = "c64a2f96bd6f8571d03ff4882026768c40584f9b"
 libgfortran_version = "3.0.0"
 os = "macos"
 
     [[Ipopt.download]]
-    sha256 = "c9e44a909fbed997a6fbf8df0a9c1f3bc23166ec15df66840e2a72c25a328002"
-    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.1+1/Ipopt.v3.13.1.x86_64-apple-darwin14-libgfortran3-cxx11.tar.gz"
+    sha256 = "6b1954a890099cf07d76ad403a89535f80583d58a6be891097dfd57d3a2199b1"
+    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.2+0/Ipopt.v3.13.2.x86_64-apple-darwin14-libgfortran3-cxx11.tar.gz"
 [[Ipopt]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "fae9c866b0e0d05d9191b600c1d77f1dc7ee6c19"
+git-tree-sha1 = "0ea558e8f5647c020c5533f33a45b117bb3d7f23"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Ipopt.download]]
-    sha256 = "72d8bcf324812c463f47c863b78d7aa20a5d4694dfce19377a44bcf68204d949"
-    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.1+1/Ipopt.v3.13.1.powerpc64le-linux-gnu-libgfortran5-cxx03.tar.gz"
+    sha256 = "67a5fcbc1cf469f35237457537ab2d6878544b6e10e4467a64165c6709a98536"
+    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.2+0/Ipopt.v3.13.2.powerpc64le-linux-gnu-libgfortran5-cxx03.tar.gz"
 [[Ipopt]]
 arch = "armv7l"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "38a27ed100f4e6df6b3776497ea283d09dda7e27"
+git-tree-sha1 = "8227f0c327a154b9caac08e3edb1094c2e74dfff"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[Ipopt.download]]
-    sha256 = "148f86b7dac2238df9b9f094cd9e97023e98b337fb7e8fb6167929b97ef699a8"
-    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.1+1/Ipopt.v3.13.1.armv7l-linux-musleabihf-libgfortran4-cxx03.tar.gz"
+    sha256 = "68cce661e19725c087edce05c20ddcf9e78ad697df63af3a2088660a57ebcac9"
+    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.2+0/Ipopt.v3.13.2.armv7l-linux-musleabihf-libgfortran4-cxx03.tar.gz"
 [[Ipopt]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "8bb150ddf829f1a19bf4c272fec6b178615d8a86"
+git-tree-sha1 = "3c486417e6ea8b25069909c14c13a8b72fa13d7b"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[Ipopt.download]]
-    sha256 = "ed975785b6c0312b587f2b538b122dba92b2f81089eefc6ae16470c4f9f70633"
-    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.1+1/Ipopt.v3.13.1.x86_64-linux-musl-libgfortran4-cxx03.tar.gz"
+    sha256 = "1a2de72395c925ea03f9f6d1f84f3a526d6c66df3d8b361a6cee41744190278f"
+    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.2+0/Ipopt.v3.13.2.x86_64-linux-musl-libgfortran4-cxx03.tar.gz"
 [[Ipopt]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "55ee4b15c9a9663db051daeeb83e986bf92176e2"
+git-tree-sha1 = "b04003e74a8a8dae8e20fffa3e5941b9997f5dd0"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Ipopt.download]]
-    sha256 = "41ab123c8ae0420e1701f06749c2022cfb86c047800d519a668dbebb6460a445"
-    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.1+1/Ipopt.v3.13.1.i686-linux-musl-libgfortran5-cxx11.tar.gz"
+    sha256 = "07197d3aee44396bd289030d7b9ef31399d8959ebc6ff16cb58cc9ef15e12d8d"
+    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.2+0/Ipopt.v3.13.2.i686-linux-musl-libgfortran5-cxx11.tar.gz"
 [[Ipopt]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "490b98025a5461498c8aa623ca1168ec66d3b8c4"
+git-tree-sha1 = "70d2fbb1efb0adba0ef8cf367e18feee01ccdcd3"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Ipopt.download]]
-    sha256 = "d96bc390e10e5208e940432ebeb511d9e38f1a0f83a4a6dfb45f9b73f8b1b8f4"
-    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.1+1/Ipopt.v3.13.1.i686-linux-gnu-libgfortran5-cxx11.tar.gz"
+    sha256 = "694d7a0191aca91c7d04fc1459cd4d170b051b70bc6c0bb966347e0325d08147"
+    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.2+0/Ipopt.v3.13.2.i686-linux-gnu-libgfortran5-cxx11.tar.gz"
 [[Ipopt]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f3f3b4d7566ef5baec006db9e92b671887a58540"
+git-tree-sha1 = "72e45811292ed7fbc777309e401a57ed3f4c0715"
 libgfortran_version = "3.0.0"
 os = "freebsd"
 
     [[Ipopt.download]]
-    sha256 = "068f58f6c8b8d4ec9fabf4ca597f4cd36dde6e9dd9eb1d856c24d582ead44aad"
-    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.1+1/Ipopt.v3.13.1.x86_64-unknown-freebsd11.1-libgfortran3-cxx11.tar.gz"
+    sha256 = "165f086abd60da2b4ac1f08b02958c69ad1c64880b45441c58081bd0f9e5abbf"
+    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.2+0/Ipopt.v3.13.2.x86_64-unknown-freebsd11.1-libgfortran3-cxx11.tar.gz"
 [[Ipopt]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "552a275f1de9dfad0503265b58abe05319aac33f"
+git-tree-sha1 = "92658e6dfc31ee9e14f7445320f8b2a916d5780a"
 libgfortran_version = "4.0.0"
 os = "windows"
 
     [[Ipopt.download]]
-    sha256 = "0d65137824d3f33c4bf8ba21d5309356816376d5d1d37863050c76ffacdb57cc"
-    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.1+1/Ipopt.v3.13.1.x86_64-w64-mingw32-libgfortran4-cxx03.tar.gz"
+    sha256 = "a837bda68c6059dff057a1968743c9fbc3957ce8568ad226d7517c364646682f"
+    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.2+0/Ipopt.v3.13.2.x86_64-w64-mingw32-libgfortran4-cxx03.tar.gz"
 [[Ipopt]]
 arch = "armv7l"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e163ef72047e1fb782ea685d777275c5f0678f07"
+git-tree-sha1 = "212f642b47451eed1438bfe681ca2c4fdf06110f"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[Ipopt.download]]
-    sha256 = "44b79ee387f70cffe432bd54fd4440bfb788a3a0b807a773ebdb6956055aaacc"
-    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.1+1/Ipopt.v3.13.1.armv7l-linux-gnueabihf-libgfortran4-cxx11.tar.gz"
+    sha256 = "e83987f3a60cf400411bdcd295a8fe18398a77ce160e6a09ec92eeb79089e4da"
+    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.2+0/Ipopt.v3.13.2.armv7l-linux-gnueabihf-libgfortran4-cxx11.tar.gz"
 [[Ipopt]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "20b8a70f7c1c98edaaf58b9669116b55e11a3ca4"
+git-tree-sha1 = "70d21420f9b9bc57a253abe7b7f0df0e6c1670b1"
 libgfortran_version = "5.0.0"
 os = "freebsd"
 
     [[Ipopt.download]]
-    sha256 = "4cb83e2442922220a0fb1232c7afb8eb73ca10a631d5f7edd69e6dafdac5df90"
-    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.1+1/Ipopt.v3.13.1.x86_64-unknown-freebsd11.1-libgfortran5-cxx11.tar.gz"
+    sha256 = "9cc2d63dfd3ae768aab4b20c9e2641c6804dc9a2b5d27f41908b3c9370b7d4a3"
+    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.2+0/Ipopt.v3.13.2.x86_64-unknown-freebsd11.1-libgfortran5-cxx11.tar.gz"
 [[Ipopt]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "81fffa2add6ca068bb11b01f0ccd9c3cd321c49e"
+git-tree-sha1 = "7026f5fdca22f5d98d2fdacf4264fe4f30b5adc0"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[Ipopt.download]]
-    sha256 = "4814edb80b79c8aeabef2cff3e6fdfb34213f797f4eff0fd989d498080a46181"
-    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.1+1/Ipopt.v3.13.1.x86_64-linux-gnu-libgfortran4-cxx03.tar.gz"
+    sha256 = "4837bc4de9dbb328c171938eceba24f44fd6989a434f9981918348b3c42b8aeb"
+    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.2+0/Ipopt.v3.13.2.x86_64-linux-gnu-libgfortran4-cxx03.tar.gz"
 [[Ipopt]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f3da77a5789813c4d6bbbe63cf99f85b1e5d8d91"
+git-tree-sha1 = "13c71b6d7881abf84b98db9b87884f6f53d45a02"
 libgfortran_version = "5.0.0"
 os = "freebsd"
 
     [[Ipopt.download]]
-    sha256 = "e3023d8ebe6410c2fec756e9eadf0465da445fd897d1d452b4454a1bed04056c"
-    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.1+1/Ipopt.v3.13.1.x86_64-unknown-freebsd11.1-libgfortran5-cxx03.tar.gz"
+    sha256 = "2a4d281f72f6b9ea67456daed3920273e06ba1e80f51040ebf76a1e4497b76ea"
+    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.2+0/Ipopt.v3.13.2.x86_64-unknown-freebsd11.1-libgfortran5-cxx03.tar.gz"
 [[Ipopt]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "dbe10717b3fc6518da53229b8d79ab922fd04499"
+git-tree-sha1 = "99e1089eca4d748e4ac26fb8da8c5e0e08682cac"
 libgfortran_version = "3.0.0"
 os = "windows"
 
     [[Ipopt.download]]
-    sha256 = "f7c5144d087bf9bf0343f4cd165f03e4c040fb27dcb3e3bf453e381942781e50"
-    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.1+1/Ipopt.v3.13.1.i686-w64-mingw32-libgfortran3-cxx11.tar.gz"
+    sha256 = "7417c88af4cd026d967e44447035ba3c248ae730ab590a36a55a6004b7fc4fdf"
+    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.2+0/Ipopt.v3.13.2.i686-w64-mingw32-libgfortran3-cxx11.tar.gz"
 [[Ipopt]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "4d55f76f75ec8c749fec1e40219aee9592731cb3"
+git-tree-sha1 = "3ba8ae0022110db4a86d9efd5f2fa2db60736781"
 libgfortran_version = "5.0.0"
 os = "macos"
 
     [[Ipopt.download]]
-    sha256 = "2db1351e2d85e2e6c05708e4b7b30fb5daad617c9a4cad981665c7bd74e7e41c"
-    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.1+1/Ipopt.v3.13.1.x86_64-apple-darwin14-libgfortran5-cxx03.tar.gz"
+    sha256 = "6c844ed7212af30073964b57400241e24de99ca2262e85090f5d34a21a9f972f"
+    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.2+0/Ipopt.v3.13.2.x86_64-apple-darwin14-libgfortran5-cxx03.tar.gz"
 [[Ipopt]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "17742c9e3426a569e6f0c4c9a65a7b1d1cd64db4"
+git-tree-sha1 = "0d8da2947d6721e2aca535e0027e673b226d4d3d"
 libgfortran_version = "4.0.0"
 os = "windows"
 
     [[Ipopt.download]]
-    sha256 = "03d897b2ba64afc51a4562c8248b41c170fd94f58cf504ea734c17ef1ea7d397"
-    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.1+1/Ipopt.v3.13.1.i686-w64-mingw32-libgfortran4-cxx11.tar.gz"
+    sha256 = "4ce9232e7f902a8b9999f3cfa0c934600110176a40a55d6c3921814bf64a35da"
+    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.2+0/Ipopt.v3.13.2.i686-w64-mingw32-libgfortran4-cxx11.tar.gz"
 [[Ipopt]]
 arch = "armv7l"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f15dd4dc1e32cba702b30b2c6dedc882993f9522"
+git-tree-sha1 = "ff5c8aee3b486821b1b81956e39dabcbc2724fbb"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[Ipopt.download]]
-    sha256 = "9f7ce7d2acd204cc60ed5082607f2ff1fec059ae7d5766123eab207e044bf2df"
-    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.1+1/Ipopt.v3.13.1.armv7l-linux-gnueabihf-libgfortran4-cxx03.tar.gz"
+    sha256 = "2217cd2ed481ba19de2ce49b13b7f85b0fc87151f207b4846806dc7d076157e5"
+    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.2+0/Ipopt.v3.13.2.armv7l-linux-gnueabihf-libgfortran4-cxx03.tar.gz"
 [[Ipopt]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "6ee40def486341b4759d80a1eccfe17c682e92a4"
+git-tree-sha1 = "a086b3021632ce67b056c5f09f643a4bbfd0f699"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[Ipopt.download]]
-    sha256 = "2ec159caee86b60d58956a860b836020e95255ef6a065d506245248b57dc9a05"
-    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.1+1/Ipopt.v3.13.1.i686-linux-gnu-libgfortran3-cxx11.tar.gz"
+    sha256 = "ad5278604795f5990f11e27fd1b3927094599c2b458e97aec92e93cd240139b7"
+    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.2+0/Ipopt.v3.13.2.i686-linux-gnu-libgfortran3-cxx11.tar.gz"
 [[Ipopt]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "262d040248e0fa501a0197fb1479fc76bf44cab7"
+git-tree-sha1 = "0acee1f468e6c95e7df78f4570922a962632e2bd"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Ipopt.download]]
-    sha256 = "556e4444d7f023b53f1140fad6af43ba3c7e8c7f9b32c1d3414a9fcafbe6b110"
-    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.1+1/Ipopt.v3.13.1.powerpc64le-linux-gnu-libgfortran5-cxx11.tar.gz"
+    sha256 = "8c8c9a6ee63e849c783d7f0d034f79700ddb44ce30da3b7c7b71096fa3cc4c4a"
+    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.2+0/Ipopt.v3.13.2.powerpc64le-linux-gnu-libgfortran5-cxx11.tar.gz"
 [[Ipopt]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a37f1dc9c3ce59965055dc33ab1de5e11fa75922"
+git-tree-sha1 = "4481b1b467698e5b244514ec2375b8e05d68746a"
 libgfortran_version = "5.0.0"
 os = "windows"
 
     [[Ipopt.download]]
-    sha256 = "cedb7d00ba411e753634aef82a7c8b25fe3a39fc39e7be43d382e68c34570e52"
-    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.1+1/Ipopt.v3.13.1.i686-w64-mingw32-libgfortran5-cxx11.tar.gz"
+    sha256 = "92672ea65b1599e47ef77eab638b497e383d52d4447b2037572e598fd59229f7"
+    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.2+0/Ipopt.v3.13.2.i686-w64-mingw32-libgfortran5-cxx11.tar.gz"
 [[Ipopt]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "801365da4ca9cd4b8da525642ca38b37d9c0333f"
+git-tree-sha1 = "3fd2ae81f25cb51c29182a72a167f5cf0400ced8"
 libgfortran_version = "5.0.0"
 os = "macos"
 
     [[Ipopt.download]]
-    sha256 = "1d584fecc2b7ec924deddd73ad83e7450bdad4ae90c41a7514acd183824ef3bd"
-    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.1+1/Ipopt.v3.13.1.x86_64-apple-darwin14-libgfortran5-cxx11.tar.gz"
+    sha256 = "72c3d4ae1acdd4815129f329e660008c1767a291847605c09a6d87fe1277cb58"
+    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.2+0/Ipopt.v3.13.2.x86_64-apple-darwin14-libgfortran5-cxx11.tar.gz"
 [[Ipopt]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "15a75b78733e87291f14830dd69b700cf5e2c914"
+git-tree-sha1 = "3cb40eb5c2950bc5a15a0cd69da0095e01ffc20b"
 libgfortran_version = "4.0.0"
 os = "freebsd"
 
     [[Ipopt.download]]
-    sha256 = "14b363faf378c11da11e6a53633504ac48e93d30236e04603da220921a360345"
-    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.1+1/Ipopt.v3.13.1.x86_64-unknown-freebsd11.1-libgfortran4-cxx03.tar.gz"
+    sha256 = "24899c094690436654e54f1648cdb637c7699d64f268ef843c3cf74e91cddf2b"
+    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.2+0/Ipopt.v3.13.2.x86_64-unknown-freebsd11.1-libgfortran4-cxx03.tar.gz"
 [[Ipopt]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "7309896f8286a103b74cf0efee94edcf8a83a6a1"
+git-tree-sha1 = "ddd8c2148dc8c6447ca4c14fccfa20c1debb97db"
 libgfortran_version = "3.0.0"
 os = "windows"
 
     [[Ipopt.download]]
-    sha256 = "a9b049021995bcfe662e6e2f57bd7a90da7a0862ec72337512c9c0ba06ec0520"
-    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.1+1/Ipopt.v3.13.1.i686-w64-mingw32-libgfortran3-cxx03.tar.gz"
+    sha256 = "d67d2be408fa63ee67fb8b443f3a52c905d7295284d7c7d6c7fb30bbb650035e"
+    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.2+0/Ipopt.v3.13.2.i686-w64-mingw32-libgfortran3-cxx03.tar.gz"
 [[Ipopt]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "7b1432e581c0d5b6d1bab37edebda6f778e1564f"
+git-tree-sha1 = "d3980f9cc605210757415986f129063a6aa3a2e9"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[Ipopt.download]]
-    sha256 = "5ac8b913fc1e1aaab39b1c42872a4e8eb7164e80c613d2abd1784c11b214bc6a"
-    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.1+1/Ipopt.v3.13.1.i686-linux-gnu-libgfortran4-cxx03.tar.gz"
+    sha256 = "43ac1f94e559016fc117404aa0f4d33cada2cc5a15a308564eb20c06d8c6c3c7"
+    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.2+0/Ipopt.v3.13.2.i686-linux-gnu-libgfortran4-cxx03.tar.gz"
 [[Ipopt]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "621401091d320851e247a2b07c3bc117f885d4e0"
+git-tree-sha1 = "ef9b430369686f86911fe834d391f1c2f088d3ea"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[Ipopt.download]]
-    sha256 = "72d390445bbd509b0729f79bcd0bde698dccd3f91963216a45d00f79e423549c"
-    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.1+1/Ipopt.v3.13.1.powerpc64le-linux-gnu-libgfortran4-cxx11.tar.gz"
+    sha256 = "e2a057666807d274643c3f9eaa4d3ce867a4e6a74537f40afd458af2d7c44d06"
+    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.2+0/Ipopt.v3.13.2.powerpc64le-linux-gnu-libgfortran4-cxx11.tar.gz"
 [[Ipopt]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a077ccd572daeb969e060ce53da230cf66f269d9"
+git-tree-sha1 = "738f869e2474500f58a07cf83abf10e0804d22cf"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[Ipopt.download]]
-    sha256 = "6991ac63c2cb1f784095fc3a7a963144e8125b6b762c2bae13d57be5e5a361fd"
-    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.1+1/Ipopt.v3.13.1.x86_64-linux-musl-libgfortran3-cxx11.tar.gz"
+    sha256 = "bd4cae26147fd6d870d81ef052894c19db1f85094e22cf5bdf7842dc62d3585f"
+    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.2+0/Ipopt.v3.13.2.x86_64-linux-musl-libgfortran3-cxx11.tar.gz"
 [[Ipopt]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "8d9356c2f93b1bb5cc1cb612d8481139b3fad7f9"
+git-tree-sha1 = "27ef3dfe063d55d79983169e644de0401156cd6d"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Ipopt.download]]
-    sha256 = "49c5e2a82baa90d1072b9bb8e1e0ad9a38acd43d7ffa1a5d0cedab1fca0d5541"
-    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.1+1/Ipopt.v3.13.1.aarch64-linux-musl-libgfortran5-cxx11.tar.gz"
+    sha256 = "6f36bc0fccbd6292f764108c218b26e4449e891a8f063d4b7958700005424f55"
+    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.2+0/Ipopt.v3.13.2.aarch64-linux-musl-libgfortran5-cxx11.tar.gz"
 [[Ipopt]]
 arch = "armv7l"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "46cc7f09c34b1dfa69a2ab9f52a49a05bf9343b6"
+git-tree-sha1 = "4f97126cb2e5eb7f657e690e2a0fc131263b0175"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[Ipopt.download]]
-    sha256 = "13e44f17957d7d60840cacf5c3d40d66e8823627b016f7fa0403804b9b75a9f3"
-    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.1+1/Ipopt.v3.13.1.armv7l-linux-gnueabihf-libgfortran3-cxx03.tar.gz"
+    sha256 = "269d9d86c8d23285f864fec19b65d8f6c618ab2f217ea23971f527b3b776a450"
+    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.2+0/Ipopt.v3.13.2.armv7l-linux-gnueabihf-libgfortran3-cxx03.tar.gz"
 [[Ipopt]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "99420610a9f2f51ee6221938232e6e5e247b21dd"
+git-tree-sha1 = "755268694dc403c1c3f20ed4c212c4b96b93274d"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[Ipopt.download]]
-    sha256 = "98b3e220252733bd9febe0ca95104e1c1d47b51fb36fd327799c47e103d05ae6"
-    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.1+1/Ipopt.v3.13.1.i686-linux-gnu-libgfortran4-cxx11.tar.gz"
+    sha256 = "5c1527018aa2039f6f4251b0eb3c9287aead603f521f9a9563d6baa2807c5eca"
+    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.2+0/Ipopt.v3.13.2.i686-linux-gnu-libgfortran4-cxx11.tar.gz"
 [[Ipopt]]
 arch = "armv7l"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f1d756ef6c970ecc33ce262d3845ee9677615229"
+git-tree-sha1 = "c95c44d73c51eeda41f85813a100fc54db32a847"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Ipopt.download]]
-    sha256 = "86a0755db88673b41bd09a50e8cb5b51bcca356113029b91526aaa2aeb643a7c"
-    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.1+1/Ipopt.v3.13.1.armv7l-linux-gnueabihf-libgfortran5-cxx03.tar.gz"
+    sha256 = "a9cc1439fc05657ba2dbf6b5f2b548e13364e00940d4f7fd0aad0835a0a1bf91"
+    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.2+0/Ipopt.v3.13.2.armv7l-linux-gnueabihf-libgfortran5-cxx03.tar.gz"
 [[Ipopt]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "3a2085fe96d41db3ee3d68881b86f29a2c2431f9"
+git-tree-sha1 = "b6b6db7e52d69ccabe5b0b286311118072da453d"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Ipopt.download]]
-    sha256 = "25395d9cb3b34d5b76bd88821d8c1a4aeeb3060c76907e6a32a3182b9e39cbbd"
-    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.1+1/Ipopt.v3.13.1.x86_64-linux-musl-libgfortran5-cxx03.tar.gz"
+    sha256 = "89ed817d417d5552a77618efd28e8efc6a3a27dfa75c2dfd14cdd325b331109a"
+    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.2+0/Ipopt.v3.13.2.x86_64-linux-musl-libgfortran5-cxx03.tar.gz"
 [[Ipopt]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "bc7176030e7ee155ed29c5e786b36fae5e642fda"
+git-tree-sha1 = "aaddb6c595c4510e801bf348d4233e9237d9dc14"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[Ipopt.download]]
-    sha256 = "dc4d8d5c7216ad7c18053c601ccffc0aa2027c598b94ad3028069fe4e69adefd"
-    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.1+1/Ipopt.v3.13.1.powerpc64le-linux-gnu-libgfortran4-cxx03.tar.gz"
+    sha256 = "53c9f9de27a94d3240294ea16c1ca39b72d34bb246cfb17acbff4a93ba9def40"
+    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.2+0/Ipopt.v3.13.2.powerpc64le-linux-gnu-libgfortran4-cxx03.tar.gz"
 [[Ipopt]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "dc8ac305889de07afd40c2d2945458986d5b4958"
+git-tree-sha1 = "19da4e4e33ef88e9704425c82dfc9b467a2fb4a5"
 libgfortran_version = "4.0.0"
 os = "macos"
 
     [[Ipopt.download]]
-    sha256 = "20601c35c7bace10db4a44858006298212bbc0dccf9a84b1992636f7438b7fa6"
-    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.1+1/Ipopt.v3.13.1.x86_64-apple-darwin14-libgfortran4-cxx03.tar.gz"
+    sha256 = "57ec817ca75ff6befc5b016bfe4796af3cc6d74acbda491d6f4a822ae32e2616"
+    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.2+0/Ipopt.v3.13.2.x86_64-apple-darwin14-libgfortran4-cxx03.tar.gz"
 [[Ipopt]]
 arch = "armv7l"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "dcbb23caefbe570540f3784ec203c04a77253556"
+git-tree-sha1 = "544b55490b40618514a31fcac1ee16d3ce3cbfa2"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Ipopt.download]]
-    sha256 = "b9d40781d9b918c63f326c6a411f40b5bcd6f81cc064748b9da8beb28ad453cc"
-    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.1+1/Ipopt.v3.13.1.armv7l-linux-musleabihf-libgfortran5-cxx03.tar.gz"
+    sha256 = "398122631c32ccd584bb1761f3f8be9630b3d9f4aa9649d2af503f2e7055b756"
+    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.2+0/Ipopt.v3.13.2.armv7l-linux-musleabihf-libgfortran5-cxx03.tar.gz"
 [[Ipopt]]
 arch = "armv7l"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "2aa2820b72f93ea514c0766068ad0c1ffd39f8ab"
+git-tree-sha1 = "f8923bfca0f0a36378050f9f628632972581ff14"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[Ipopt.download]]
-    sha256 = "097b92737edc1dedfae7b667dd28feb29a2dddc3d758798d80910d4dc925f56b"
-    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.1+1/Ipopt.v3.13.1.armv7l-linux-musleabihf-libgfortran3-cxx03.tar.gz"
+    sha256 = "e7f93eb56c0408e21381a2efebf7d197e1cd8b423e5768159a541fd386d4c3fa"
+    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.2+0/Ipopt.v3.13.2.armv7l-linux-musleabihf-libgfortran3-cxx03.tar.gz"
 [[Ipopt]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f13648fc126c7d01e76053d472d70e80f01cb561"
+git-tree-sha1 = "0fbbf2b1926696ad7d53b4bd324ca7c9daccd373"
 libgfortran_version = "3.0.0"
 os = "macos"
 
     [[Ipopt.download]]
-    sha256 = "8e28b958948c310a239d7daee5f983820905943bbad38827dce50e49db70ca2e"
-    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.1+1/Ipopt.v3.13.1.x86_64-apple-darwin14-libgfortran3-cxx03.tar.gz"
+    sha256 = "a905edd95dbbc38a766408215df90607c5de1149713e54829134c8f205fe189b"
+    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.2+0/Ipopt.v3.13.2.x86_64-apple-darwin14-libgfortran3-cxx03.tar.gz"
 [[Ipopt]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "90d94f4b7823b007cf5edec1903d8e819ea4b360"
+git-tree-sha1 = "b7c3fa2b083bd149e7bccd81a6aa1843e43e1358"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[Ipopt.download]]
-    sha256 = "dfb6f5fcd4ce58df41ad30625c8bcf108fcaf5c72ff6d47806c59c119b0a6c14"
-    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.1+1/Ipopt.v3.13.1.aarch64-linux-gnu-libgfortran4-cxx11.tar.gz"
+    sha256 = "9b0f28c8987b6f2c5c39122a37e9b5accda4019edeacb3be3b8ebe0de320e693"
+    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.2+0/Ipopt.v3.13.2.aarch64-linux-gnu-libgfortran4-cxx11.tar.gz"
 [[Ipopt]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f1d935268476aed5e486fd1f46df6fff01c14232"
+git-tree-sha1 = "8be6f556794a1620944cf49554ff69c6dd6001c1"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Ipopt.download]]
-    sha256 = "82bb634b08b51467d4aa5f6f6e279b8a94e3bab044b0b92f799e72aa4e2173cd"
-    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.1+1/Ipopt.v3.13.1.aarch64-linux-musl-libgfortran5-cxx03.tar.gz"
+    sha256 = "329dd313ba6da542c0ae06a236402f0279e0c45f4d8a9aa1373a8bf82a869c4e"
+    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.2+0/Ipopt.v3.13.2.aarch64-linux-musl-libgfortran5-cxx03.tar.gz"
 [[Ipopt]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "60e3cc2079009abc4a849dda4398b77798eef970"
+git-tree-sha1 = "68678b918d69d0f1bf3817b0bc695f88ea593831"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[Ipopt.download]]
-    sha256 = "672d5aad2685fee54f390854eb2010513b63d437fa5e756e7f2503ee5aa2d474"
-    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.1+1/Ipopt.v3.13.1.x86_64-linux-musl-libgfortran4-cxx11.tar.gz"
+    sha256 = "c9ee7a579cca559554f7503fa797d9c08008af4a417945c29ec1fe73be889bf1"
+    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.2+0/Ipopt.v3.13.2.x86_64-linux-musl-libgfortran4-cxx11.tar.gz"
 [[Ipopt]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "169d76aa93df6951ee64c2e3b8412d765748193f"
+git-tree-sha1 = "53872e6001af87982afb8c7482596e622c680817"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[Ipopt.download]]
-    sha256 = "b954c8664f73bdb68c5cea0f9048a240dc1636be4d0a05c20f4cc60e3e24aca9"
-    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.1+1/Ipopt.v3.13.1.aarch64-linux-musl-libgfortran3-cxx11.tar.gz"
+    sha256 = "e9dcad5a9e8d72cd1250168ffbbb5c68759869ba84e057b8877abf9146940f07"
+    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.2+0/Ipopt.v3.13.2.aarch64-linux-musl-libgfortran3-cxx11.tar.gz"
 [[Ipopt]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "bba0dabee0d739b6503b90f36eb9cac0ce170e9e"
+git-tree-sha1 = "07e1029064151d3c1119ef68605990d8d9ca47c6"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[Ipopt.download]]
-    sha256 = "4cb410e01690abe30113da2cf5b5544fcff3e672bdce6dfec1ebbd23260294cd"
-    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.1+1/Ipopt.v3.13.1.i686-linux-gnu-libgfortran3-cxx03.tar.gz"
+    sha256 = "f597e24bc521fee19bd9547347a859b4201deb0c0ca1bc457e7c41cb113fbff8"
+    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.2+0/Ipopt.v3.13.2.i686-linux-gnu-libgfortran3-cxx03.tar.gz"
 [[Ipopt]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "221f009f4eb8f18f99b041d2c7203309119bc65a"
+git-tree-sha1 = "f0722b891fb4d09d07d1b002a803434483203d91"
 libgfortran_version = "3.0.0"
 os = "freebsd"
 
     [[Ipopt.download]]
-    sha256 = "750e686877157e226a799541716c8084397d4ff549fce4df2b8304baaadb977e"
-    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.1+1/Ipopt.v3.13.1.x86_64-unknown-freebsd11.1-libgfortran3-cxx03.tar.gz"
+    sha256 = "bcdaee0b1a7dd796f7bcf130740e7d62aba6da3bbaae93028789279ec3215d5c"
+    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.2+0/Ipopt.v3.13.2.x86_64-unknown-freebsd11.1-libgfortran3-cxx03.tar.gz"
 [[Ipopt]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4616fb419c03f00acac686c315e49c34aa12f400"
+git-tree-sha1 = "e159ca7bd2107ddb5fd44340401f9909c3aa54f8"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[Ipopt.download]]
-    sha256 = "cffae099c285b4fb55d962c2996162d844785d372d1782621f0cfe9c95c0d9d9"
-    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.1+1/Ipopt.v3.13.1.aarch64-linux-musl-libgfortran4-cxx11.tar.gz"
+    sha256 = "65373153d5f8d14504b1e7d0eaf967baf8408db3e749e6f342dda7d755468847"
+    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.2+0/Ipopt.v3.13.2.aarch64-linux-musl-libgfortran4-cxx11.tar.gz"
 [[Ipopt]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b0466a9999aee73864a4b581389febf4507dc97f"
+git-tree-sha1 = "9d91c180f8a8169c1370c460ab1b8d434e2473f3"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[Ipopt.download]]
-    sha256 = "f65020ffa7e542c667adb0abb98861456592b0f84b491488f953199051c62805"
-    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.1+1/Ipopt.v3.13.1.powerpc64le-linux-gnu-libgfortran3-cxx11.tar.gz"
+    sha256 = "bd82361e489b530c388fe647d541d8debdc1a050d92c4796f82ba2db221e24a4"
+    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.2+0/Ipopt.v3.13.2.powerpc64le-linux-gnu-libgfortran3-cxx11.tar.gz"
 [[Ipopt]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f912d546e2eb001813c2664e3879e310adda223a"
+git-tree-sha1 = "9ce588d067f581ad4ff9842a8d75bebfacff95ba"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[Ipopt.download]]
-    sha256 = "b363695d8b8e3fe32101c5c98f36b25ce5dd0f980c516a5382c61e9e3a32980b"
-    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.1+1/Ipopt.v3.13.1.i686-linux-musl-libgfortran4-cxx11.tar.gz"
+    sha256 = "d357ebe823f76e29b6380b72818a0a9597c0e1fe9a3a5a9be752ba9daf5255ae"
+    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.2+0/Ipopt.v3.13.2.i686-linux-musl-libgfortran4-cxx11.tar.gz"
 [[Ipopt]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "803e89675247eeba1bda22d9a58562dfeb11283e"
+git-tree-sha1 = "c70b60aef49016f6b8bcf072d1e3a611066eed6c"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[Ipopt.download]]
-    sha256 = "01a21ceb25415cdcbceca49a72f309dc7fd1bfe7a8001419b221321404c80508"
-    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.1+1/Ipopt.v3.13.1.x86_64-linux-gnu-libgfortran3-cxx03.tar.gz"
+    sha256 = "d496a355c79221228b69dac865567bda121d75772e06f9fbe5bd0b0ab13ceab1"
+    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.2+0/Ipopt.v3.13.2.x86_64-linux-gnu-libgfortran3-cxx03.tar.gz"
 [[Ipopt]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "586a6a14d75232fe4c9ccc67eb3b4986c8027e1e"
+git-tree-sha1 = "9103fce2dec48e3588d4a492827e70a546e74211"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Ipopt.download]]
-    sha256 = "bc806424e9468bd86709c30334d06c5c4a167bf155b78ad3b774ae751434300b"
-    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.1+1/Ipopt.v3.13.1.i686-linux-musl-libgfortran5-cxx03.tar.gz"
+    sha256 = "2baea86a2b9343fe8257accd6fb7cf563a79c971e2263d76c98a3a0186de737a"
+    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.2+0/Ipopt.v3.13.2.i686-linux-musl-libgfortran5-cxx03.tar.gz"
 [[Ipopt]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "fea583ee684a54aac2296ee57f50d47dcd3d8c26"
+git-tree-sha1 = "825f54200b0e2072658429dc6e3eabb1e68b4aac"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Ipopt.download]]
-    sha256 = "75dfcf115052243823c87b045e68fd7d9017285d581d0eae35f5ee83d2805e59"
-    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.1+1/Ipopt.v3.13.1.x86_64-linux-gnu-libgfortran5-cxx03.tar.gz"
+    sha256 = "f46bf6a3a42a4cb175feb73102b2ec62ede908a05d5c2e871d1f8e1dbf4aceec"
+    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.2+0/Ipopt.v3.13.2.x86_64-linux-gnu-libgfortran5-cxx03.tar.gz"
 [[Ipopt]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f33fa5942aab95b1f98e92c69f1c8dcb40173c74"
+git-tree-sha1 = "e686ea389440cbc71d9d8018d6690c39da6f2eb4"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Ipopt.download]]
-    sha256 = "51ae9d903c420c00994024b0597a225907ee4c99ad1d4bddaccc8c88adc2d563"
-    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.1+1/Ipopt.v3.13.1.aarch64-linux-gnu-libgfortran5-cxx03.tar.gz"
+    sha256 = "aa06b89cc0aa4b9157a99260f0adb0a9e85a18c20c5cac4b781498d6ed2d1234"
+    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.2+0/Ipopt.v3.13.2.aarch64-linux-gnu-libgfortran5-cxx03.tar.gz"
 [[Ipopt]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "9f45764e876dfc8ab05a9808ecb72fd8680b6032"
+git-tree-sha1 = "77c33cecebce808499ebca84df72bc7fcbc5b074"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[Ipopt.download]]
-    sha256 = "5b964bbdcd5faf845b1415431e056bc9ac4c910f5341c7e4d0ca8430647602a7"
-    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.1+1/Ipopt.v3.13.1.powerpc64le-linux-gnu-libgfortran3-cxx03.tar.gz"
+    sha256 = "f33dd8f30eaf99ad6849b04988dabd4796ebd92c73866d2c1d1a99647aa54330"
+    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.2+0/Ipopt.v3.13.2.powerpc64le-linux-gnu-libgfortran3-cxx03.tar.gz"
 [[Ipopt]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "bc1125a22c8f4862cdec0a66ec9b155e3fb63daf"
+git-tree-sha1 = "aa2eae28e7cba26d77909222e111dff81465aa7e"
 libgfortran_version = "3.0.0"
 os = "windows"
 
     [[Ipopt.download]]
-    sha256 = "2d9b5ba80707b3d93aff9b8ae1da03d57fd81ee72d60ffe6c0bbd530eb74ed1c"
-    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.1+1/Ipopt.v3.13.1.x86_64-w64-mingw32-libgfortran3-cxx11.tar.gz"
+    sha256 = "f01e4120877ac722514a7eded94a351477e2f2f29f5f9b4a94d4c24bd7aa139e"
+    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.2+0/Ipopt.v3.13.2.x86_64-w64-mingw32-libgfortran3-cxx11.tar.gz"
 [[Ipopt]]
 arch = "armv7l"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "85dbab47cefccce3943f698b964f3164e92c973f"
+git-tree-sha1 = "9c885a0e6194fe9652772968b88986f3e9c1c2ef"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[Ipopt.download]]
-    sha256 = "15f665884661772a1bc6d8201ca962251dc301a8596510895c887f084423c025"
-    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.1+1/Ipopt.v3.13.1.armv7l-linux-musleabihf-libgfortran3-cxx11.tar.gz"
+    sha256 = "1d9055d6db6bb0899201506ad885fd6398de2c541489b84e6f34a42abd8475d9"
+    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.2+0/Ipopt.v3.13.2.armv7l-linux-musleabihf-libgfortran3-cxx11.tar.gz"
 [[Ipopt]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "bf7bedb2ea794eb2f19b255127e0c6394a034b21"
+git-tree-sha1 = "38caa8b5724d1caa6a332abd64c57a447b5949f3"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[Ipopt.download]]
-    sha256 = "5d32b8fa1b646cce351747e2a9385ebe6d1575f733189fac21afc785a1ec4abf"
-    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.1+1/Ipopt.v3.13.1.i686-linux-musl-libgfortran3-cxx11.tar.gz"
+    sha256 = "a88d8ea6d26065b9b478ffe7d05013a043bb15ba8ecd0f08972b78caed6a4e1d"
+    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.2+0/Ipopt.v3.13.2.i686-linux-musl-libgfortran3-cxx11.tar.gz"
 [[Ipopt]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "90d53b6dfb05d4952b3fb9c49103f7fb9e6d08ec"
+git-tree-sha1 = "664c38a0b6c0691f2d537a306643445af83673fb"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[Ipopt.download]]
-    sha256 = "a438de868d1040f6f96f003754d7f9ba61b8f3a907bbf2c0429a5b34545847bf"
-    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.1+1/Ipopt.v3.13.1.i686-linux-musl-libgfortran3-cxx03.tar.gz"
+    sha256 = "d5c08f899e90e357f69d886731334f8e57e162d66d8bddb4d54f25b4a86f7a63"
+    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.2+0/Ipopt.v3.13.2.i686-linux-musl-libgfortran3-cxx03.tar.gz"
 [[Ipopt]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5368520628f052880cc3805b9492d8b242eca570"
+git-tree-sha1 = "d31d6b132fd0485888d4d31cb85fef25e241fea2"
 libgfortran_version = "4.0.0"
 os = "windows"
 
     [[Ipopt.download]]
-    sha256 = "afe150b8aa3fe5337df9f60235f2caf0b5a53c7a35c9d21a52013ab6e4f35fb1"
-    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.1+1/Ipopt.v3.13.1.x86_64-w64-mingw32-libgfortran4-cxx11.tar.gz"
+    sha256 = "5fe62d97efd77b35ed7ac428a102c7201a2d859c6852547944380a5eef9b26ab"
+    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.2+0/Ipopt.v3.13.2.x86_64-w64-mingw32-libgfortran4-cxx11.tar.gz"
 [[Ipopt]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b86915571400888930642b59cd5508bc9a691290"
+git-tree-sha1 = "a8cc429387effa467d17c45d2b6bc29ad38f3891"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[Ipopt.download]]
-    sha256 = "dcb7b480e91dfb7430d01ac7a3a7e7b8dcfd69e77a97dfc7a5b611d33852e49b"
-    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.1+1/Ipopt.v3.13.1.aarch64-linux-gnu-libgfortran3-cxx11.tar.gz"
+    sha256 = "a236e3fdfae8c397fc2400c60d57f31f57541b6f22650a8df9b8a0f7b198a7bb"
+    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.2+0/Ipopt.v3.13.2.aarch64-linux-gnu-libgfortran3-cxx11.tar.gz"
 [[Ipopt]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1aed6679bbcd888d20d4b9e9e83d38baf54788b5"
+git-tree-sha1 = "4bbd5eff2eee84cccf4f59f9a21e2da726c6d046"
 libgfortran_version = "4.0.0"
 os = "macos"
 
     [[Ipopt.download]]
-    sha256 = "15e023c66832d2a30afc64b89944d11a0996952035dbcb2860c0294a8bdb4ab9"
-    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.1+1/Ipopt.v3.13.1.x86_64-apple-darwin14-libgfortran4-cxx11.tar.gz"
+    sha256 = "2223d9702ead939291ccebd37b65974561c49ba1f08cb826294c2bfd820eca63"
+    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.2+0/Ipopt.v3.13.2.x86_64-apple-darwin14-libgfortran4-cxx11.tar.gz"
 [[Ipopt]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "48a0b0ef4807febfa307f9a60ac7b855cb836ab0"
+git-tree-sha1 = "0807228b8dcb584e1aa7878d9d9061474f9d2610"
 libgfortran_version = "3.0.0"
 os = "windows"
 
     [[Ipopt.download]]
-    sha256 = "60afd1727dd6f59abdafec3bd0dd64049922463d98be2688342cbaf49aeab495"
-    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.1+1/Ipopt.v3.13.1.x86_64-w64-mingw32-libgfortran3-cxx03.tar.gz"
+    sha256 = "70cae55c61a6bd8eaabec96c5c2085951862cc5052b23cff8f87ae05080a032b"
+    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.2+0/Ipopt.v3.13.2.x86_64-w64-mingw32-libgfortran3-cxx03.tar.gz"
 [[Ipopt]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "3ac9e554fa155c7aab01f4af4cf5e09f2c1cac9d"
+git-tree-sha1 = "ca038d66cfd773b1b531c208c0a4705d3004b2da"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[Ipopt.download]]
-    sha256 = "2e2d77f7067b2b8d183c48c44ab3ca2e41f13390f5c2756b2f4a2b8e8e49b188"
-    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.1+1/Ipopt.v3.13.1.x86_64-linux-musl-libgfortran3-cxx03.tar.gz"
+    sha256 = "a039c6ea305705daada0fffea56ba12f089cd773ab8973fb690ea35d2cba34fb"
+    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.2+0/Ipopt.v3.13.2.x86_64-linux-musl-libgfortran3-cxx03.tar.gz"
 [[Ipopt]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "0fb733b0cf97580c0560331d7d13de97cfd82f1b"
+git-tree-sha1 = "6ab67e4ac077183345b1d6dec8ee7fd34b4e9fd7"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Ipopt.download]]
-    sha256 = "3c277003ada6637a0f2469ad5ddad6be33d8368099d6716effcaa59eb83d4f97"
-    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.1+1/Ipopt.v3.13.1.x86_64-linux-gnu-libgfortran5-cxx11.tar.gz"
+    sha256 = "be3577870b855476c7b22f134950e98ee27b9bcd73ab456a2d626c8f6f95cc76"
+    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.2+0/Ipopt.v3.13.2.x86_64-linux-gnu-libgfortran5-cxx11.tar.gz"
 [[Ipopt]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f43ba4bb54304549049fea275f07672a2a1146ea"
+git-tree-sha1 = "8febb236aa26a0f9944227def7f925b00263f5b6"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Ipopt.download]]
-    sha256 = "6f9ae8644ef53c0a972b80761b64837c6ae760dd6922045ef2e4cc8260c33283"
-    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.1+1/Ipopt.v3.13.1.x86_64-linux-musl-libgfortran5-cxx11.tar.gz"
+    sha256 = "b64ccf90b27f73cb4c0831817176f80520be69c5dcd6da9f06093097cebfb4d7"
+    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.2+0/Ipopt.v3.13.2.x86_64-linux-musl-libgfortran5-cxx11.tar.gz"
 [[Ipopt]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "4013c1735c5637007e124fb430b38dfeafb91c5f"
+git-tree-sha1 = "d5d305d3c5995820dd8d552bb291208ab879144f"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Ipopt.download]]
-    sha256 = "b504c57a0f83fbfcc6c8feb6618fdd86750aa1f6bac0ff59746613c4a1ba2492"
-    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.1+1/Ipopt.v3.13.1.i686-linux-gnu-libgfortran5-cxx03.tar.gz"
+    sha256 = "3c352a9b6772ed9d9745efd5bf61a7ddb8e742609db8aa5509cc8ffce42c1c06"
+    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.2+0/Ipopt.v3.13.2.i686-linux-gnu-libgfortran5-cxx03.tar.gz"
 [[Ipopt]]
 arch = "armv7l"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3c5bcc34778abae096c3149a6985b394e09ae38d"
+git-tree-sha1 = "9416497573da91f1b9b17731aab7ea2110dfa290"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[Ipopt.download]]
-    sha256 = "a311c0e97be8aa9680c2e8d4202d620642ed575bd9000cef660df38932cc1cae"
-    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.1+1/Ipopt.v3.13.1.armv7l-linux-musleabihf-libgfortran4-cxx11.tar.gz"
+    sha256 = "86fefe99701772d0b45a4759f1382a49c80963cbcd47266e7fe85fc8f7b0632d"
+    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.2+0/Ipopt.v3.13.2.armv7l-linux-musleabihf-libgfortran4-cxx11.tar.gz"
 [[Ipopt]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "76d8e1d46f6695a5fea82dba399314d1bd555081"
+git-tree-sha1 = "064a002d007ea71e446d40aae52d82acec474270"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[Ipopt.download]]
-    sha256 = "6cab1f8041fb3011034a108854a20a9e58e78dda2a6c3015ccfdc1d7a93bf919"
-    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.1+1/Ipopt.v3.13.1.aarch64-linux-musl-libgfortran3-cxx03.tar.gz"
+    sha256 = "5c1bfc631ddd0e6de19223558d482aec733f53f99d7af26436753de2a94090cd"
+    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.2+0/Ipopt.v3.13.2.aarch64-linux-musl-libgfortran3-cxx03.tar.gz"
 [[Ipopt]]
 arch = "armv7l"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "39c27ac54a26f4ee001f7843a5697be02cdf901b"
+git-tree-sha1 = "5e4169128ccb277a3b1c81f8f68aea492e61f46f"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Ipopt.download]]
-    sha256 = "81af066d1594a26fae0906d35cf3f82a5dee8d872ec205dc72b36f0e1fc77ba9"
-    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.1+1/Ipopt.v3.13.1.armv7l-linux-musleabihf-libgfortran5-cxx11.tar.gz"
+    sha256 = "aa5166ffcd1ad94783beccdc3bb171321974268ef813d65192851a6a2c82f656"
+    url = "https://github.com/JuliaBinaryWrappers/Ipopt_jll.jl/releases/download/Ipopt-v3.13.2+0/Ipopt.v3.13.2.armv7l-linux-musleabihf-libgfortran5-cxx11.tar.gz"
