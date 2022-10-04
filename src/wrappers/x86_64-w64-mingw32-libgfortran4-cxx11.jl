@@ -3,14 +3,14 @@ export amplexe, libipopt, libipoptamplinterface
 
 using ASL_jll
 using MUMPS_seq_jll
-using libblastrampoline_jll
+using OpenBLAS32_jll
 using CompilerSupportLibraries_jll
 JLLWrappers.@generate_wrapper_header("Ipopt")
 JLLWrappers.@declare_library_product(libipopt, "libipopt-3.dll")
 JLLWrappers.@declare_library_product(libipoptamplinterface, "libipoptamplinterface-3.dll")
 JLLWrappers.@declare_executable_product(amplexe)
 function __init__()
-    JLLWrappers.@generate_init_header(ASL_jll, MUMPS_seq_jll, libblastrampoline_jll, CompilerSupportLibraries_jll)
+    JLLWrappers.@generate_init_header(ASL_jll, MUMPS_seq_jll, OpenBLAS32_jll, CompilerSupportLibraries_jll)
     JLLWrappers.@init_library_product(
         libipopt,
         "bin\\libipopt-3.dll",
