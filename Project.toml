@@ -1,18 +1,20 @@
 name = "Ipopt_jll"
 uuid = "9cc047cb-c261-5740-88fc-0cf96f7bdcc7"
-version = "300.1400.1200+0"
+version = "300.1400.1201+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
-libblastrampoline_jll = "8e850b90-86db-534c-a0d3-1478176c7d93"
+SPRAL_jll = "319450e9-13b8-58e8-aa9f-8fd1420848ab"
 MUMPS_seq_jll = "d7ed1dd3-d0ae-5e8e-bfb4-87a502085b8d"
+libblastrampoline_jll = "8e850b90-86db-534c-a0d3-1478176c7d93"
 CompilerSupportLibraries_jll = "e66e0078-7015-5450-92f7-15fbd957f2ae"
 Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
-OpenBLAS32_jll = "656ef2d0-ae68-5445-9ca0-591084a874a2"
 ASL_jll = "ae81ac8f-d209-56e5-92de-9978fef736f9"
 Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
 
 [compat]
 JLLWrappers = "1.2.0"
-julia = "1.8"
-MUMPS_seq_jll = "=500.500.101"
+julia = "1.9"
+MUMPS_seq_jll = "=500.600.0"
+SPRAL_jll = "=2023.3.29"
+libblastrampoline_jll = "5.4.0"
